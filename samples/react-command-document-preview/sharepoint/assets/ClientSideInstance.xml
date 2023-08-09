@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ClientSideComponentInstance
+      Title="SPFxDocumentPreview"
+      Location="ClientSideExtension.ListViewCommandSet.CommandBar"
+      ListTemplateId="101"
+      ComponentId="8b120bc0-31c1-4fcd-afa2-ac1ec3db9e45"
+      Properties="{&quot;sampleTextOne&quot;:&quot;One item is selected in the list.&quot;, &quot;sampleTextTwo&quot;:&quot;This command is always visible.&quot;}"/>
+</Elements>
